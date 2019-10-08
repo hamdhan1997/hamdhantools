@@ -18,3 +18,17 @@ $ sh tegal.sh
 
 ATAU BISA PAKE INI
 
+
+$apt update && apt upgrade
+
+$apt install python2
+
+$apt install git
+
+$pip2 install mechanize
+
+$git clone https://github.com/hamdhan1997/hamdhantools.git
+
+$cd hamdhantools
+
+$sh tegal.sh
